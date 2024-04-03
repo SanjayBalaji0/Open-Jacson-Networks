@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# EX: 5: Series Queues with infinite capacity - Open Jackson Network
 # NAME : S.Sanjay Balaji
 # REGISTER NUMBER : 212223240149
 ## Aim :
